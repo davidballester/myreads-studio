@@ -5,7 +5,7 @@
     "description": "Sanity studio for MyReads",
     "main": "package.json",
     "author": "David Ballester Mena <david.ballester.mena@gmail.com>",
-    "license": "UNLICENSED",
+    "license": "MIT",
     "scripts": {
         "start": "sanity start",
         "build": "sanity build"
